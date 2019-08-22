@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<name>My Resources Plugin Practice Project</name>
+	<groupId>com.example</groupId>
+	<artifactId>mockldap</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+
+
+	
+	<dependencies>
+		<dependency>
+    <groupId>com.unboundid</groupId>
+    <artifactId>unboundid-ldapsdk</artifactId>
+    <version>4.0.11</version>
+</dependency>
+
+		
+	</dependencies>
+	<build>
+<sourceDirectory>${project.basedir}/code</sourceDirectory>
+		<plugins>
+			
+
+		</plugins>
+	</build>
+</project>

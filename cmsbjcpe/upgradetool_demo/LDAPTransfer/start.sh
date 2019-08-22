@@ -1,0 +1,10 @@
+nohup python import.py /home/migration/LDAPcapture/account_child_0 >account_child_0.out &
+nohup python import.py /home/migration/LDAPcapture/account_child_1 >account_child_1.out &
+nohup python import.py /home/migration/LDAPcapture/account_child_2 >account_child_2.out &
+nohup python import.py /home/migration/LDAPcapture/account_child_3 >account_child_3.out &
+nohup python import.py /home/migration/LDAPcapture/account_child_4 >account_child_4.out &
+nohup python import.py /home/migration/LDAPcapture/account_child_5 >account_child_5.out &
+nohup python import.py /home/migration/LDAPcapture/account_child_6 >account_child_6.out &
+nohup python import.py /home/migration/LDAPcapture/account_child_7 >account_child_7.out &
+nohup python import.py /home/migration/LDAPcapture/account_child_8 >account_child_8.out &
+nohup python import.py /home/migration/LDAPcapture/account_child_9 >account_child_9.out &
